@@ -8,7 +8,7 @@
 - Clone this repo:
 ```bash
 git clone https://github.com/wyl-privacy-project/DWT-Mixer
-cd TS-Mixer
+cd DWT-Mixer
 ```
 - Create a conda virtual environment and activate it:
 ```bash
