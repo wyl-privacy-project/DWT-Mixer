@@ -1,6 +1,6 @@
 # DWT-Mixer: An all-MLP Model via Token Shift
 ## DWT-Mixer
-![Figure 1. The overall architecture of the proposed DWT-Mixer](https://github.com/wyl-privacy-project/DWT-Mixer/blob/main/Figure/DWT-Mixer%E6%80%BB%E4%BD%93%E6%9E%B6%E6%9E%84.jpg)
+![Figure 1. The overall architecture of the proposed DWT-Mixer](https://github.com/wyl-privacy-project/DWT-Mixer/blob/main/Figure/DWT-Mixer%20overall.jpg)
 ## DWT-Mixer token mixing layer
 ![Figure 2. DWT-Mixer token mixing layer](https://github.com/wyl-privacy-project/DWT-Mixer/blob/main/Figure/DWT.jpg)
 ## Usage
